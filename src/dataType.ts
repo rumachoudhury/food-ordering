@@ -367,7 +367,7 @@ export const menu: Menu = [
     slug: "pastas",
     title: "Italian Pastas",
     desc: "Savor the taste of perfection with our exquisite Italian handmade pasta menu.",
-    img: "/temporary/m1.png",
+    img: "/foodOrdering/m1.png",
     color: "white",
   },
   {
@@ -375,7 +375,7 @@ export const menu: Menu = [
     slug: "burgers",
     title: "Juicy Burgers",
     desc: "Burger Bliss: Juicy patties, bold flavors, and gourmet toppings galore.",
-    img: "/temporary/m2.png",
+    img: "/foodOrdering/p2.png",
     color: "black",
   },
   {
@@ -383,7 +383,7 @@ export const menu: Menu = [
     slug: "pizzas",
     title: "Cheesy Pizzas",
     desc: "Pizza Paradise: Irresistible slices, mouthwatering toppings, and cheesy perfection.",
-    img: "/temporary/m3.png",
+    img: "/foodOrdering/p3.png",
     color: "white",
   },
 ];
