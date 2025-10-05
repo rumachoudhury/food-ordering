@@ -3,8 +3,8 @@ import React from "react";
 
 export default function Footer() {
   return (
-    <footer className="bg-amber-50 text-amber-800 ">
-      <div className="max-w-7xl mx-auto px-6 py-6 flex flex-col md:flex-row items-center justify-between gap-4">
+    <footer className="bg-amber-50 text-amber-800 py-1 md:py-6 ">
+      <div className="max-w-7xl mx-auto px-6 py-1 md:py-6 flex flex-col md:flex-row items-center justify-between gap-4">
         {/* Brand */}
         <Link
           href="/"
