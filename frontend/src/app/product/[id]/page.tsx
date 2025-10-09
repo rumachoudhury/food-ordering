@@ -1,7 +1,7 @@
-import { singleProduct } from "@/dataType";
+import { singleProduct } from "../../../dataType";
 import Image from "next/image";
 import React from "react";
-import Price from "@/components/Price";
+import Price from "../../../components/Price";
 
 function SinguleProductPage() {
   return (

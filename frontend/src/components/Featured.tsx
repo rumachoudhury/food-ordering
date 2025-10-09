@@ -40,7 +40,7 @@
 // export default Featured;
 
 // -----------------------
-import { featuredProducts } from "@/dataType";
+import { featuredProducts } from "../dataType";
 import Image from "next/image";
 import React from "react";
 

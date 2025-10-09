@@ -1,4 +1,4 @@
-import { pizzas } from "@/dataType";
+import { pizzas } from "../../../dataType";
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
